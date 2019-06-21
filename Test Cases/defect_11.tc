@@ -5,4 +5,25 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2f955b52-cc16-43e7-b489-8e09a1a75bc5</testCaseGuid>
+   <variable>
+      <defaultValue>'edurary.com'</defaultValue>
+      <description></description>
+      <id>676203d9-160e-45ff-875d-d444315229ec</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'yashsahay99@gmail.com'</defaultValue>
+      <description></description>
+      <id>788621d8-b26e-4561-bee1-e5aefd76c8d8</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'9801970219'</defaultValue>
+      <description></description>
+      <id>201c7117-91b1-4710-bd22-e8f5b06855f8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>

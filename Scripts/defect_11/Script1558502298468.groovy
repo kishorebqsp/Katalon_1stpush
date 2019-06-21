@@ -13,13 +13,13 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('edurary.com')
+WebUI.openBrowser(url)
 
 WebUI.click(findTestObject('Sign_in/Page_EduRary  Home/a_Sign In'))
 
-WebUI.setText(findTestObject('Email_Signin_txtbox/Page_/input__email'), 'yashsahay99@gmail.com')
+WebUI.setText(findTestObject('Email_Signin_txtbox/Page_/input__email'), email)
 
-WebUI.setText(findTestObject('Pw_Signin_TB/Page_/input__password'), '9801970219')
+WebUI.setText(findTestObject('Pw_Signin_TB/Page_/input__password'), password)
 
 WebUI.click(findTestObject('Submit_Signin_btn/Page_/button_Submit'))
 
