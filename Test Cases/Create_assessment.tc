@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_assessment</name>
+   <tag>Functional test case</tag>
+   <comment></comment>
+   <testCaseGuid>955ccf13-45b7-4225-aaa9-5826d1614746</testCaseGuid>
+</TestCaseEntity>

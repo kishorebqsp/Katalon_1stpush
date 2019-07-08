@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20190524_122253</name>
+   <tag></tag>
+   <displayName>20190524_122253</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_suite_1/20190524_122253</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+</ReportCollectionEntity>

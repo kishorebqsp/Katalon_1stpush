@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20190524_134117</name>
+   <tag></tag>
+   <displayName>20190524_134117</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_suite_1/20190524_134117</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_suite_2/20190524_134118</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_Suite_3/20190524_134119</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_Suite_4/20190524_134120</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_Suite_6/20190524_134121</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/Test_Suite_5/20190524_134122</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Service</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Web Service</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+</ReportCollectionEntity>

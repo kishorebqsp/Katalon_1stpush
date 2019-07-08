@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Defect_34</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8921d81-7ee9-4afc-9fee-fe69184a5f8f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebe7e272-66b0-4a5b-bf54-fef0c394359e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

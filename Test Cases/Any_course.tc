@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Any_course</name>
+   <tag>Functional_testing</tag>
+   <comment></comment>
+   <testCaseGuid>c8f37cc5-e2d5-4500-a1f6-66c2b9c80e1f</testCaseGuid>
+   <variable>
+      <defaultValue>'yashsahay99@gmail.com'</defaultValue>
+      <description></description>
+      <id>39160d71-c3e0-48f4-9ff2-3bdac332f9a7</id>
+      <masked>false</masked>
+      <name>emailaddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'9801970219'</defaultValue>
+      <description></description>
+      <id>534a2374-2aae-45a1-9f50-69ff388d5cd2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'edurary.com'</defaultValue>
+      <description></description>
+      <id>6b44cc5b-08e6-4b2a-8994-f895562f75f2</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

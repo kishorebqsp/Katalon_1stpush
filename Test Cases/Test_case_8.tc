@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_case_8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b8fe85-e356-4520-b7a5-e7e39d1cc642</testCaseGuid>
+   <variable>
+      <defaultValue>'edurary.com'</defaultValue>
+      <description></description>
+      <id>82edc7f4-81a8-4ed0-b229-ee6ab674794c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'yashsahay99@gmail.com'</defaultValue>
+      <description></description>
+      <id>1e16d9b9-137a-4a81-8896-888d390c9d17</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'9801970219'</defaultValue>
+      <description></description>
+      <id>965bec3e-968f-4851-9c1c-f7b4e19fef7d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
